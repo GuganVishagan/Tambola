@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Main {
+public class TambolaApp {
     public static void main(String[] args) {
         // Initialize the round
         Round round = new Round(1);

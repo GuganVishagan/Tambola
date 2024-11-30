@@ -23,7 +23,7 @@ public class RandomClaimValidatorTest {
         };
 
         // Sample announced numbers
-        List<Integer> announcedNumbers = Arrays.asList(4, 16, 48, 80, 9, 23);
+        List<Integer> announcedNumbers = Arrays.asList(4, 16, 48, 80, 9);
 
         // Game count factor ( EARLY FIVE )
         int gameCountFactor = 5;
