@@ -43,4 +43,4 @@ game pattern validation, and winner determination.
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/
+   git clone https://github.com/GuganVishagan/Tambola.git
